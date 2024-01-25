@@ -1,0 +1,4 @@
+.header {
+  height: 5vh;
+  box-shadow: 0 0 0.8em var(--light-gray);
+}
